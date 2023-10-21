@@ -1,0 +1,3 @@
+﻿  chatServer.cpp
+C:\Users\DELL\Desktop\network\chat_server\chatServer.cpp(46,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  chat_server.vcxproj -> C:\Users\DELL\Desktop\network\chat_server\x64\Debug\chat_server.exe

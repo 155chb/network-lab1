@@ -1,0 +1,13 @@
+﻿  chatServer.cpp
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__accept@12，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__bind@12，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__closesocket@4，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__htonl@4，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__htons@4，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__listen@8，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__recv@16，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__send@16，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__socket@12，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__WSAStartup@8，函数 _main 中引用了该符号
+chatServer.obj : error LNK2019: 无法解析的外部符号 __imp__WSACleanup@0，函数 _main 中引用了该符号
+C:\Users\DELL\Desktop\network\chat_server\Debug\chat_server.exe : fatal error LNK1120: 11 个无法解析的外部命令
